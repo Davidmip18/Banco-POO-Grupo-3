@@ -1,3 +1,5 @@
+//La Clase Cliente, esta lista/terminada
+
 public class Cliente {
 
     private String nombre;

@@ -1,4 +1,7 @@
+//Clase Cuenta, esta lista/terminada
+
 public class Cuenta implements Interfaz {
+
     private String id;
     private double saldo;
     private Cliente propietario;
