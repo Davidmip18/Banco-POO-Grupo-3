@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-public class Cliente () {
-=======
 public class Cliente {
->>>>>>> 2350624d7eefdfabccb1996f168421d55a47ef5d
+
     private String nombre;
     private String direccion;
     private String telefono;
